@@ -11,5 +11,8 @@ List of peptides in a FASTA format with their cell penetrating ability.
 
 Datasets from:
 
-`Machine-learning-based prediction of cell-penetrating peptides and their uptake efficiency with improved accuracy ( J. Proteome Res. 2018, 17, 2715−272 )`
-`Singh, S., Singh, H., Tuknait, A., Chaudhary, K., Singh, B., Kumaran, S. and Raghava, G.P.S. (2015) PEPstrMOD: structure prediction of peptides containing natural, non-natural and modified residues. Biology Direct 10:73.`
+```
+Singh, S., Singh, H., Tuknait, A., Chaudhary, K., Singh, B., Kumaran, S. and Raghava, G.P.S. (2015) PEPstrMOD: structure prediction of peptides containing natural, non-natural and modified residues. Biology Direct 10:73.
+
+MLCPP 2.0: An Updated Cell-penetrating Peptides and Their Uptake Efficiency Predictor. J. Mol. Biol. (2022).
+```
