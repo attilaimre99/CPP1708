@@ -1,9 +1,9 @@
 # Cell Penetrating Peptides datasets
 List of peptides in a FASTA format with their cell penetrating ability. 
 
-* benchmark.csv - Training data.
-* independent.csv - Independent validation data.
-* uptake.csv - Contains data about the uptake potential, eg. slow or fast.
+* train.csv - Training data. Balanced 573 CPP, non-CPP.
+* independent.csv - Independent validation data. Unbalanced.
+* uptake.csv - Contains data about the uptake potential (slow or fast).
 
 ## Testing datasets
 * CyclicPep.zip - CyclicPep data
